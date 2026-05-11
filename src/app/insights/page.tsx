@@ -11,7 +11,7 @@ const insights = [
     category: "Corporate Strategy",
     date: "Oct 15, 2024",
     author: "Strategy Team",
-    image: "/images/sector_gcc.png",
+    image: "/Amravati-Partners/images/sector_gcc.png",
     excerpt: "As metropolitan operational costs rise and talent retention becomes challenging, companies are re-evaluating emerging urban centers for their GCC operations."
   },
   {
@@ -19,7 +19,7 @@ const insights = [
     category: "Real Estate",
     date: "Sep 28, 2024",
     author: "Research Desk",
-    image: "/images/city_aerial.png",
+    image: "/Amravati-Partners/images/city_aerial.png",
     excerpt: "A comparative analysis of land acquisition, development, and operational costs showcasing a 60-70% advantage."
   },
   {
@@ -27,7 +27,7 @@ const insights = [
     category: "Urban Planning",
     date: "Sep 12, 2024",
     author: "Advisory Services",
-    image: "/images/sector_industrial.png",
+    image: "/Amravati-Partners/images/sector_industrial.png",
     excerpt: "How co-locating industries, suppliers, and residential infrastructure accelerates economic viability."
   },
   {
@@ -35,7 +35,7 @@ const insights = [
     category: "Hospitality",
     date: "Aug 30, 2024",
     author: "Sector Experts",
-    image: "/images/sector_tourism.png",
+    image: "/Amravati-Partners/images/sector_tourism.png",
     excerpt: "The untapped potential of Chikhaldara and surrounding regions in driving hospitality infrastructure demand."
   }
 ];
@@ -47,7 +47,7 @@ export default function Insights() {
       <section className="relative h-[40vh] flex items-center pt-20">
         <div className="absolute inset-0 z-0">
           <Image 
-            src="/images/partnerships_bg.png" 
+            src="/Amravati-Partners/images/partnerships_bg.png" 
             alt="Insights" 
             fill 
             className="object-cover opacity-20"

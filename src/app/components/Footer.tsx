@@ -10,7 +10,7 @@ export default function Footer() {
           <div className="space-y-6">
             <Link href="/" className="group flex items-center gap-3 mb-2">
               <Image 
-                src="/images/logo.svg" 
+                src="/Amravati-Partners/images/logo.svg" 
                 alt="Amravati & Partners Logo" 
                 width={180} 
                 height={36} 

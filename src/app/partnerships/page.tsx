@@ -27,7 +27,7 @@ export default function Partnerships() {
       <section className="relative h-[60vh] flex items-center pt-20">
         <div className="absolute inset-0 z-0">
           <Image 
-            src="/images/partnerships_bg.png" 
+            src="/Amravati-Partners/images/partnerships_bg.png" 
             alt="Global Partnerships" 
             fill 
             className="object-cover opacity-30"

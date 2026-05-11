@@ -11,7 +11,7 @@ export default function WhyAmravati() {
       <section className="relative h-[60vh] flex items-center pt-20">
         <div className="absolute inset-0 z-0">
           <Image 
-            src="/images/city_aerial.png" 
+            src="/Amravati-Partners/images/city_aerial.png" 
             alt="Amravati Overview" 
             fill 
             className="object-cover opacity-40"
@@ -91,18 +91,18 @@ export default function WhyAmravati() {
             <div className="w-full lg:w-1/2 grid grid-cols-2 gap-4 h-[600px]">
               <div className="flex flex-col gap-4">
                 <div className="relative h-2/3 rounded-xl overflow-hidden glass-dark">
-                  <Image src="/images/sector_gcc.png" alt="GCC" fill className="object-cover" />
+                  <Image src="/Amravati-Partners/images/sector_gcc.png" alt="GCC" fill className="object-cover" />
                 </div>
                 <div className="relative h-1/3 rounded-xl overflow-hidden glass-dark">
-                  <Image src="/images/sector_industrial.png" alt="Industrial" fill className="object-cover" />
+                  <Image src="/Amravati-Partners/images/sector_industrial.png" alt="Industrial" fill className="object-cover" />
                 </div>
               </div>
               <div className="flex flex-col gap-4 mt-12">
                 <div className="relative h-1/3 rounded-xl overflow-hidden glass-dark">
-                  <Image src="/images/sector_healthcare.png" alt="Healthcare" fill className="object-cover" />
+                  <Image src="/Amravati-Partners/images/sector_healthcare.png" alt="Healthcare" fill className="object-cover" />
                 </div>
                 <div className="relative h-2/3 rounded-xl overflow-hidden glass-dark">
-                  <Image src="/images/sector_logistics.png" alt="Logistics" fill className="object-cover" />
+                  <Image src="/Amravati-Partners/images/sector_logistics.png" alt="Logistics" fill className="object-cover" />
                 </div>
               </div>
             </div>

@@ -11,7 +11,7 @@ export default function About() {
       <section className="relative h-[60vh] flex items-center pt-20">
         <div className="absolute inset-0 z-0">
           <Image 
-            src="/images/hero_bg.png" 
+            src="/Amravati-Partners/images/hero_bg.png" 
             alt="About Us" 
             fill 
             className="object-cover opacity-30"
@@ -68,7 +68,7 @@ export default function About() {
 
             <div className="relative h-[600px] rounded-2xl overflow-hidden glass-dark p-2 border border-white/10">
               <Image 
-                src="/images/partnerships_bg.png" 
+                src="/Amravati-Partners/images/partnerships_bg.png" 
                 alt="Vision" 
                 fill 
                 className="object-cover rounded-xl opacity-80"

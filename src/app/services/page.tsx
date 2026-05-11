@@ -45,7 +45,7 @@ export default function Services() {
       <section className="relative h-[50vh] flex items-center pt-20">
         <div className="absolute inset-0 z-0">
           <Image 
-            src="/images/hero_bg.png" 
+            src="/Amravati-Partners/images/hero_bg.png" 
             alt="Services" 
             fill 
             className="object-cover opacity-30"

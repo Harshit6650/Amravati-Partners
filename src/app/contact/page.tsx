@@ -11,7 +11,7 @@ export default function Contact() {
       <section className="relative h-[40vh] flex items-center pt-20">
         <div className="absolute inset-0 z-0">
           <Image 
-            src="/images/city_aerial.png" 
+            src="/Amravati-Partners/images/city_aerial.png" 
             alt="Contact" 
             fill 
             className="object-cover opacity-20"

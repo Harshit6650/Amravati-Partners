@@ -12,7 +12,7 @@ export default function Home() {
       <section className="relative min-h-[90vh] flex items-center pt-20 pb-32">
         <div className="absolute inset-0 z-0">
           <Image 
-            src="/images/hero_bg.png" 
+            src="/Amravati-Partners/images/hero_bg.png" 
             alt="Futuristic Amravati Smart City" 
             fill 
             className="object-cover object-center opacity-40"
@@ -108,7 +108,7 @@ export default function Home() {
             <div className="w-full md:w-1/2 relative h-[500px]">
               <div className="absolute inset-0 glass-dark rounded-2xl overflow-hidden border border-white/10 p-2">
                 <Image 
-                  src="/images/city_aerial.png" 
+                  src="/Amravati-Partners/images/city_aerial.png" 
                   alt="Amravati Map Visual" 
                   fill 
                   className="object-cover rounded-xl opacity-80"
@@ -181,10 +181,10 @@ export default function Home() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {[
-              { title: "GCC & ITES", image: "/images/sector_gcc.png", desc: "Cost-efficient destination for analytics and shared services." },
-              { title: "Logistics & Warehousing", image: "/images/sector_logistics.png", desc: "Central India location for distribution and fulfillment." },
-              { title: "Industrial & Manufacturing", image: "/images/sector_industrial.png", desc: "Scalable land availability for cluster-development." },
-              { title: "Data Centers", image: "/images/sector_datacenters.png", desc: "Emerging opportunity for digital infrastructure." }
+              { title: "GCC & ITES", image: "/Amravati-Partners/images/sector_gcc.png", desc: "Cost-efficient destination for analytics and shared services." },
+              { title: "Logistics & Warehousing", image: "/Amravati-Partners/images/sector_logistics.png", desc: "Central India location for distribution and fulfillment." },
+              { title: "Industrial & Manufacturing", image: "/Amravati-Partners/images/sector_industrial.png", desc: "Scalable land availability for cluster-development." },
+              { title: "Data Centers", image: "/Amravati-Partners/images/sector_datacenters.png", desc: "Emerging opportunity for digital infrastructure." }
             ].map((sector, i) => (
               <Link href="/sectors" key={i} className="group relative h-80 rounded-xl overflow-hidden block">
                 <Image 
@@ -209,7 +209,7 @@ export default function Home() {
       {/* SECTION 5 — HOW WE WORK & SECTION 6 — GLOBAL PARTNERSHIPS */}
       <section className="py-24 bg-navy relative overflow-hidden">
         <div className="absolute top-0 right-0 w-1/2 h-full opacity-10">
-          <Image src="/images/partnerships_bg.png" alt="Global Network" fill className="object-cover" />
+          <Image src="/Amravati-Partners/images/partnerships_bg.png" alt="Global Network" fill className="object-cover" />
         </div>
         
         <div className="container mx-auto px-6 max-w-7xl relative z-10">
@@ -261,7 +261,7 @@ export default function Home() {
       <section className="py-32 relative flex items-center justify-center text-center">
         <div className="absolute inset-0 z-0">
           <Image 
-            src="/images/city_aerial.png" 
+            src="/Amravati-Partners/images/city_aerial.png" 
             alt="Amravati City" 
             fill 
             className="object-cover opacity-20"

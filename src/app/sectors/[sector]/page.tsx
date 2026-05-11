@@ -7,7 +7,7 @@ const sectorData = {
   "gcc-ites": {
     title: "GCC & ITES Expansion",
     subtitle: "A cost-efficient and scalable destination for shared services, analytics, ITES, and mid-scale GCC operations.",
-    image: "/images/sector_gcc.png",
+    image: "/Amravati-Partners/images/sector_gcc.png",
     advantages: [
       "Lower operational cost",
       "Availability of graduates and professionals",
@@ -27,7 +27,7 @@ const sectorData = {
   "logistics": {
     title: "Logistics & Warehousing",
     subtitle: "Supporting distribution, storage, fulfilment, and transport-linked infrastructure growth.",
-    image: "/images/sector_logistics.png",
+    image: "/Amravati-Partners/images/sector_logistics.png",
     advantages: [
       "Central India access",
       "Lower industrial land cost",
@@ -46,7 +46,7 @@ const sectorData = {
   "industrial": {
     title: "Industrial & Manufacturing",
     subtitle: "Scalable opportunities for industrial parks, light manufacturing, and cluster-based development.",
-    image: "/images/sector_industrial.png",
+    image: "/Amravati-Partners/images/sector_industrial.png",
     advantages: [
       "Lower industrial setup cost",
       "Expandable land parcels",
@@ -65,7 +65,7 @@ const sectorData = {
   "education": {
     title: "Education & Training",
     subtitle: "A strong opportunity for residential schools, training campuses, and skill-development ecosystems.",
-    image: "/images/sector_education.png",
+    image: "/Amravati-Partners/images/sector_education.png",
     advantages: [
       "Existing educational legacy",
       "Favorable living environment",
@@ -84,7 +84,7 @@ const sectorData = {
   "tourism": {
     title: "Tourism & Hospitality",
     subtitle: "Tourism-led development potential driven by Chikhaldara and the surrounding region.",
-    image: "/images/sector_tourism.png",
+    image: "/Amravati-Partners/images/sector_tourism.png",
     advantages: [
       "Proximity to Chikhaldara hill station",
       "Rich cultural heritage",
@@ -103,7 +103,7 @@ const sectorData = {
   "healthcare": {
     title: "Healthcare & Diagnostics",
     subtitle: "Regional healthcare growth opportunity supported by medical infrastructure demand.",
-    image: "/images/sector_healthcare.png",
+    image: "/Amravati-Partners/images/sector_healthcare.png",
     advantages: [
       "Large underserved regional population",
       "Growing per capita income",
@@ -122,7 +122,7 @@ const sectorData = {
   "data-centers": {
     title: "Data Centers & Digital",
     subtitle: "An emerging opportunity for digital infrastructure and future-ready commercial assets.",
-    image: "/images/sector_datacenters.png",
+    image: "/Amravati-Partners/images/sector_datacenters.png",
     advantages: [
       "Stable geographical zone",
       "Availability of power and land",
@@ -140,7 +140,7 @@ const sectorData = {
   "townships": {
     title: "Integrated Townships",
     subtitle: "Large-format mixed-use development opportunity driven by long-term regional growth.",
-    image: "/images/sector_townships.png",
+    image: "/Amravati-Partners/images/sector_townships.png",
     advantages: [
       "Rising aspiration levels",
       "Need for planned urban spaces",

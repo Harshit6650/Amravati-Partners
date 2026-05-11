@@ -6,14 +6,14 @@ import { ArrowRight } from "lucide-react";
 import { motion } from "framer-motion";
 
 const sectors = [
-  { id: "gcc-ites", title: "GCC & ITES", image: "/images/sector_gcc.png", desc: "Cost-efficient destination for back-office, analytics, shared services, and mid-scale GCC operations." },
-  { id: "logistics", title: "Logistics & Warehousing", image: "/images/sector_logistics.png", desc: "Strategic central India location suitable for distribution, warehousing, and fulfilment operations." },
-  { id: "industrial", title: "Industrial & Manufacturing", image: "/images/sector_industrial.png", desc: "Scalable industrial land availability with cluster-development potential." },
-  { id: "education", title: "Education & Training", image: "/images/sector_education.png", desc: "Strong ecosystem for residential schools, skill campuses, and training institutions." },
-  { id: "tourism", title: "Tourism & Hospitality", image: "/images/sector_tourism.png", desc: "Chikhaldara and surrounding region offer hospitality and tourism-led real estate opportunities." },
-  { id: "healthcare", title: "Healthcare & Diagnostics", image: "/images/sector_healthcare.png", desc: "Potential regional healthcare hub for hospitals, diagnostics, and medical infrastructure." },
-  { id: "data-centers", title: "Data Centers & Digital", image: "/images/sector_datacenters.png", desc: "Emerging opportunity for future-ready digital infrastructure and high-value commercial assets." },
-  { id: "townships", title: "Integrated Townships", image: "/images/sector_townships.png", desc: "Long-term mixed-use development opportunity driven by multi-sector growth." },
+  { id: "gcc-ites", title: "GCC & ITES", image: "/Amravati-Partners/images/sector_gcc.png", desc: "Cost-efficient destination for back-office, analytics, shared services, and mid-scale GCC operations." },
+  { id: "logistics", title: "Logistics & Warehousing", image: "/Amravati-Partners/images/sector_logistics.png", desc: "Strategic central India location suitable for distribution, warehousing, and fulfilment operations." },
+  { id: "industrial", title: "Industrial & Manufacturing", image: "/Amravati-Partners/images/sector_industrial.png", desc: "Scalable industrial land availability with cluster-development potential." },
+  { id: "education", title: "Education & Training", image: "/Amravati-Partners/images/sector_education.png", desc: "Strong ecosystem for residential schools, skill campuses, and training institutions." },
+  { id: "tourism", title: "Tourism & Hospitality", image: "/Amravati-Partners/images/sector_tourism.png", desc: "Chikhaldara and surrounding region offer hospitality and tourism-led real estate opportunities." },
+  { id: "healthcare", title: "Healthcare & Diagnostics", image: "/Amravati-Partners/images/sector_healthcare.png", desc: "Potential regional healthcare hub for hospitals, diagnostics, and medical infrastructure." },
+  { id: "data-centers", title: "Data Centers & Digital", image: "/Amravati-Partners/images/sector_datacenters.png", desc: "Emerging opportunity for future-ready digital infrastructure and high-value commercial assets." },
+  { id: "townships", title: "Integrated Townships", image: "/Amravati-Partners/images/sector_townships.png", desc: "Long-term mixed-use development opportunity driven by multi-sector growth." },
 ];
 
 export default function Sectors() {
@@ -23,7 +23,7 @@ export default function Sectors() {
       <section className="relative h-[50vh] flex items-center pt-20">
         <div className="absolute inset-0 z-0">
           <Image 
-            src="/images/hero_bg.png" 
+            src="/Amravati-Partners/images/hero_bg.png" 
             alt="Sectors Hero" 
             fill 
             className="object-cover opacity-30"

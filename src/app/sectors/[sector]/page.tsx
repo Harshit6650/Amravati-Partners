@@ -159,6 +159,12 @@ const sectorData = {
   }
 };
 
+export async function generateStaticParams() {
+  return Object.keys(sectorData).map((sector) => ({
+    sector: sector,
+  }));
+}
+
 export default function SectorPage({ params }: { params: { sector: string } }) {
   const data = sectorData[params.sector as keyof typeof sectorData];
   

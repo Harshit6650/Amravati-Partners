@@ -1,0 +1,58 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg_gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#040F18" />
+      <stop offset="50%" stop-color="#071B2A" />
+      <stop offset="100%" stop-color="#0C2A42" />
+    </linearGradient>
+
+    <!-- Text Gradient -->
+    <linearGradient id="india_gradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF9933" />
+      <stop offset="50%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#138808" />
+    </linearGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255,255,255,0.03)" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg_gradient)"/>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+
+  <!-- Glowing Accent -->
+  <circle cx="600" cy="315" r="400" fill="#14B8A6" opacity="0.05" filter="blur(50px)"/>
+
+  <!-- Logo Group -->
+  <g transform="translate(300, 220) scale(3)">
+    <!-- Abstract A / Building Logo -->
+    <path d="M20 2L4 34H13L20 20L27 34H36L20 2Z" fill="#FF9933"/>
+    <path d="M20 20L15 30H25L20 20Z" fill="#138808"/>
+    <circle cx="20" cy="28" r="3" fill="#000080"/>
+    <circle cx="20" cy="28" r="1" fill="#FFFFFF"/>
+
+    <!-- AMRAVATI -->
+    <text x="48" y="24" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="26" fill="url(#india_gradient)" letter-spacing="-1px">
+      AMRAVATI
+    </text>
+    
+    <!-- & PARTNERS -->
+    <text x="50" y="36" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="10" fill="#FFFFFF" letter-spacing="2px">
+      &amp; PARTNERS
+    </text>
+  </g>
+
+  <!-- Tagline -->
+  <text x="600" y="420" font-family="Arial, Helvetica, sans-serif" font-weight="300" font-size="28" fill="rgba(255,255,255,0.7)" text-anchor="middle" letter-spacing="1px">
+    Global Investment &amp; Corporate Expansion
+  </text>
+  
+  <!-- Website URL -->
+  <text x="600" y="580" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="16" fill="#D4AF37" text-anchor="middle" letter-spacing="2px">
+    AMRAVATIANDPARTNERS.COM
+  </text>
+</svg>
